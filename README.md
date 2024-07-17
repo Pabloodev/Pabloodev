@@ -18,9 +18,7 @@
 Here you can see my projects and a little more about me!
 [ >> My Portfolio <<](https://www.pabloteixeira.site/) <br><br>
 
-  <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pabloodev&layout=compact&theme=dracula&hide_border=true&langs_count=8" /></a>
-  
-   <a href="https://github.com/matealves/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Pabloodev&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" title="Mateus Alves' github stats" /></a> 
+  ### What I know
   
   <div style="display: inline_block"><br>
   <img align="center" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
