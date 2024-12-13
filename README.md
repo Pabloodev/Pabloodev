@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=44C9FF&random=false&width=435&lines=Fullstack+Developer)](https://git.io/typing-svg)
 
-- ⚙️ Principal language: JavaScript / Python \ HTML \ CSS
-- 🌐 Learning: React, Node.js, JavaScript
+- ⚙️ Principal language: React / JavaScript / Python / HTML / CSS
+- 🌐 Learning: Next.js // Databases
 - 📚 Studying: Graduation IT manager;
 
 </br>
