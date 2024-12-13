@@ -34,5 +34,3 @@ Here you can see my projects and a little more about me!
 
  
 </div>
-<br>
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=matealves&%22%20title=%22matealves%22"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pabloodev&%22%20title=%22matealves%22&theme=dracula"/></a>
