@@ -1,35 +1,81 @@
-<h1 align="center">Pablo Teixeira</a> <img src="https://user-images.githubusercontent.com/64318469/176737130-33ef105d-385a-43e4-a68e-33ac3f19ab12.gif" height="32" /></h1>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div
+
+![](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000FF&width=435&lines=Fullstack+developer)
+
+Fullstack Developer focused on Web & Mobile Applications
+Partner at Athon Networks • React • Next.js • TypeScript
+
+### 🛠 Tech Stack
+
+⚙️ Main Stack:
+- Frontend: Next.js, React, TypeScript, JavaScript
+- Backend: PostgreSQL, Prisma, Firebase
+- Mobile: React Native, Expo
+
+🧠 Also experienced with:
+- Node, Python, HTML, CSS
+
+🌐 Learning:
+- AI Engineering applied to real products
+- Clean code, scalability and performance
+
+📚 Education:
+- Degree in Educational Technology Management
+
+---
+
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+</div>
+<><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7F3DE6&width=435&lines=Fullstack+developer)](https://git.io/typing-svg)
-
-- ⚙️ Principal language: Next / React / JavaScript / Firebase / Python / HTML / CSS
-- 🌐 Learning: Next.js // Databases
-- 📚 Studying: Graduation IT manager;
 
 </br>
 <div>
 
 <a href="https://www.linkedin.com/in/pabloteixeiraimproving/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
+
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=Pabloodev&color=blue)
 
-My potfolio
-[ >> My Portfolio <<](https://www.pabloteixeira.site/) <br><br>
+🌐 Portfolio  
+👉 https://pablo-teixeira.vercel.app/  
+Projects, case studies and real applications
 
-### languages
-
-  <div style="display: inline_block"><br>
-  <img align="center" title="Next" height="70" src="https://github.com/tandpfun/skill-icons/raw/main/icons/NextJS-Dark.svg">
-  <img align="center" title="React" height="70" src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg">
-  <img align="center" title="JS" height="70" src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg">
-  <img align="center" title="Python" height="70" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg">
-  <img align="center" title="Git" height="70" src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg">
-  <img align="center" title="CSS" height="70" src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg">
-  <img align="center" title="HTML" height="70" src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg">
   
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pabloodev/Pabloodev/output/github-contribution-grid-snake-dark.svg">
@@ -37,9 +83,3 @@ My potfolio
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pabloodev/Pabloodev/output/github-contribution-grid-snake.svg">
 </picture>
 
-</div>
-  
-  ##
-
-
-</div>
