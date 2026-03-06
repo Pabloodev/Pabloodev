@@ -73,7 +73,7 @@ Partner at Athon Networks • React • Next.js • TypeScript
 ![](https://komarev.com/ghpvc/?username=Pabloodev&color=blue)
 
 🌐 Portfolio  
-👉 https://pablo-teixeira.vercel.app/  
+👉 [https://pablo-barros.com.br ](https://pablo-barros.vercel.app/) 
 Projects, case studies and real applications
 
   
